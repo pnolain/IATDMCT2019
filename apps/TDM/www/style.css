@@ -1,0 +1,80 @@
+
+
+#mainPlotContainer {
+  position: relative;
+}
+
+
+.btn-default {
+    background-color: #f4f4f4;
+    color: #444;
+    border-color: #ddd;
+    font-family: inherit;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #3c8dbc;
+    border-color: #2e6da4;
+    font-family: inherit;
+    font-weight: bold;
+}
+
+
+.btn-primary:focus {
+color: #fff;
+background-color: #3c8dbc;
+border-color: #2e6da4;
+}
+
+
+#loading-content {
+  position: absolute;
+  background: #FFFFFF;
+  opacity: 0.9;
+  z-index: 1000000;
+  left: 0;
+  right: 0;
+  top:0;
+  height: 100%;
+  text-align: center;
+  color: #00000;
+  padding-top: 200px;
+}
+
+
+
+
+.btn-err {
+  margin-top: 10px;
+  color: red;
+}
+.btn-loading-container {
+  margin-left: 10px;
+  font-size: 1.2em;
+}
+
+button.btn-primary:not(.lg-btn) {
+  font-size: 1.2em;
+ 
+}
+
+button.btn-primary.lg-btn {
+  padding: 10px 20px;
+  
+}
+
+
+.btn-done-indicator {
+  color: green;
+}
+
+#plotSpinner {
+position: absolute;
+  background: #FFFFFF;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding-top: 200px;
+}

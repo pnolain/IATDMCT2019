@@ -2,7 +2,7 @@
 
 ### Talk slides
 
-Pharmacometrics R-shiny tools for drug development ([pdf](index.pdf))
+Pharmacometrics R-shiny tools for drug development ([pdf](slides.pdf))
 
 ### Demo applications
 
